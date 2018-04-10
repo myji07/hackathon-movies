@@ -1,4 +1,5 @@
 # Hackathon Entertainment
+![gifycinema2](https://user-images.githubusercontent.com/32876178/38587233-587f505c-3ce6-11e8-852d-53ebe7a2ab7e.png)
 
 Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
 
