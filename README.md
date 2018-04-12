@@ -1,4 +1,5 @@
 # Hackathon Entertainment
+## Desarrollado para [Laboratoria](http://www.laboratoria.la/)
 ![giffycinemas](https://user-images.githubusercontent.com/32876178/38668478-a3adbfb8-3e09-11e8-951c-b0ab55e4756c.png)
 
 Bienvenida a la hackathon de finalización del plan común. En esta ocasión la temática será el entretenimiento y crearemos soluciones/productos utilizando un API.
